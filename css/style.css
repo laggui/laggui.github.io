@@ -181,10 +181,10 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-a.mail {
+a.bodycolor {
   color: #868e96 !important;
 }
 
-a.mail:hover, a.mail:focus, .a.mail:active {
+a.bodycolor:hover, a.bodycolor:focus, .a.bodycolor:active {
   color: #343a40 !important;
 }
