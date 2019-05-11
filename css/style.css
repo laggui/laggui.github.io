@@ -180,3 +180,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+a.mail {
+  color: #868e96 !important;
+}
+
+a.mail:hover, a.mail:focus, .a.mail:active {
+  color: #343a40 !important;
+}
