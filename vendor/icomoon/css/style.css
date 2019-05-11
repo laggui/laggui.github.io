@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?4ov2y0');
+  src:  url('../fonts/icomoon.eot?4ov2y0#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?4ov2y0') format('truetype'),
+    url('../fonts/icomoon.woff?4ov2y0') format('woff'),
+    url('../fonts/icomoon.svg?4ov2y0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  display: inline-block;
+  text-rendering: auto;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-linkedin:before {
+  content: "\e905";
+}
+.icon-facebook:before {
+  content: "\e906";
+}
+.icon-facebook-f:before {
+  content: "\e906";
+}
+.icon-twitter:before {
+  content: "\e907";
+}
+.icon-github:before {
+  content: "\e908";
+}
+.icon-language:before {
+  content: "\e900";
+}
+.icon-mail-envelope-closed:before {
+  content: "\e901";
+}
+.icon-mail-envelope-closed1:before {
+  content: "\e902";
+}
+.icon-robotics:before {
+  content: "\e903";
+}
+.icon-cv:before {
+  content: "\e904";
+}
+.icon-image:before {
+  content: "\e90d";
+}
+.icon-location:before {
+  content: "\e947";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-cog:before {
+  content: "\e994";
+}
+.icon-cogs:before {
+  content: "\e995";
+}
+.icon-trophy:before {
+  content: "\e99e";
+}
+.icon-download2:before {
+  content: "\e9c5";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-circle-up:before {
+  content: "\ea41";
+}
+.icon-circle-right:before {
+  content: "\ea42";
+}
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-circle-left:before {
+  content: "\ea44";
+}
+.icon-embed2:before {
+  content: "\ea80";
+}
+.icon-steam:before {
+  content: "\eaac";
+}
