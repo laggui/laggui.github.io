@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?4ov2y0');
-  src:  url('../fonts/icomoon.eot?4ov2y0#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?4ov2y0') format('truetype'),
-    url('../fonts/icomoon.woff?4ov2y0') format('woff'),
-    url('../fonts/icomoon.svg?4ov2y0#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?e7425j');
+  src:  url('../fonts/icomoon.eot?e7425j#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?e7425j') format('truetype'),
+    url('../fonts/icomoon.woff?e7425j') format('woff'),
+    url('../fonts/icomoon.svg?e7425j#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,6 +26,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-eye-slash:before {
+  content: "\e909";
+}
+.icon-television:before {
+  content: "\e90a";
+}
+.icon-tv:before {
+  content: "\e90a";
+}
+.icon-eye:before {
+  content: "\e90b";
+}
+.icon-file-pdf-o:before {
+  content: "\e90c";
+}
 .icon-linkedin:before {
   content: "\e905";
 }
