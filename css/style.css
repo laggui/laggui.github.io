@@ -190,11 +190,16 @@ a.bodycolor:hover, a.bodycolor:focus, .a.bodycolor:active {
 }
 
 .icon-list a + a {
-  margin-left: 0.5rem;
+  margin-left: 0.1rem;
 }
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.emphasized {
+  font-weight: 700 !important;
+  margin-right: 0.75rem;
 }
 
 /* Bootstrap modal carousel override */
