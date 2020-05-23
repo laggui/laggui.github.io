@@ -140,6 +140,10 @@ p.lead {
   }
 }
 
+.navbar-brand {
+  font-size: 1.625rem;
+}
+
 section.project-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
